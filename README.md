@@ -9,6 +9,10 @@ Express
 2. jsdom https://github.com/tmpvar/jsdom
   like with Cheerio
 
+3. superagent(http://visionmedia.github.io/superagent/ ) 
+<br>
+是个 http 方面的库，可以发起 get 或 post 请求。
+
 <h2> ORM </h2>
 1. Waterline https://github.com/balderdashy/waterline <br>
   An adapter-based ORM for Node.js with support for mysql, mongo, postgres, redis, and more <br>
